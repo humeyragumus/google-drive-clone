@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" width="300" height="100">
+  <circle cx="50" cy="50" r="40" fill="#ac93b9" opacity="0.2"/>
+  <polygon points="50,20 80,70 20,70" fill="#ac93b9"/>
+  <circle cx="50" cy="55" r="10" fill="#ffffff"/>
+  <text x="110" y="60" fill="#ac93b9" font-family="Arial, sans-serif" font-size="28" font-weight="bold">Google Drive</text>
+</svg>
