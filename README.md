@@ -26,11 +26,15 @@ The Google Drive Clone project replicates the core functionality of a cloud file
 
 ## Preview
 
-![Dashboard](public/ss1.png)
-![File Upload](public/ss2.png)
-![Folder View](public/ss3.png)
-![Trash Page](public/ss4.png)
+<p align="center">
+  <img src="public/ss1.png" alt="Dashboard" width="400"/>
+  <img src="public/ss2.png" alt="File Upload" width="400"/>
+</p>
 
+<p align="center">
+  <img src="public/ss3.png" alt="Folder View" width="400"/>
+  <img src="public/ss4.png" alt="Trash Page" width="400"/>
+</p>
 ## Installation and Setup
 
 To run this project locally:
@@ -55,22 +59,19 @@ To run this project locally:
    VITE_APPWRITE_DATABASE_ID=your_database_id
    VITE_APPWRITE_BUCKET_ID=your_bucket_id 
 
-5.	Run the development server:
-  ```bash
-  npm run dev
 
 
 
- ```  
+5. Run the development server:
+```bash
+npm run dev
+```
+
 6. View the project:
- Once the server is running, open your browser and visit:
- 
- **http://localhost:3000/**
-
-
-
-
-
+Once the server is running, open your browser and visit:
+```bash
+http://localhost:3000/
+```
 
 
      
